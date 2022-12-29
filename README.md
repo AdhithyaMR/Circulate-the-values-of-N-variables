@@ -33,3 +33,4 @@ n=int(input())
 ## Output:
 ![](/Screenshot%20from%202022-12-29%2010-35-36.png)
 ## Result:
+Thus the circulate the values of N variables sucessfully executed
